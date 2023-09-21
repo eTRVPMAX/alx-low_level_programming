@@ -1,6 +1,6 @@
 /*
  * File: 100-elf_header.c
- * Auth: mohamed 
+ * Auth: mohamed
  */
 
 #include <elf.h>
